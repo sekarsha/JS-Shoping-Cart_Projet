@@ -1,0 +1,38 @@
+.back_cart{
+
+    background-color: rgb(223, 228, 232);
+
+}
+
+.sha{
+    background-color: rgb(223, 228, 232);
+}
+
+body{
+    background-color: rgb(223, 228, 232);
+}
+
+
+th,td{
+    font-size: 8px;
+}
+
+
+.txt_qty{
+    width: 40px;
+    height: 30px;
+}
+
+
+@media (min-width: 426px) {
+    
+    th,td{
+        font-size: 15px;
+    }
+
+    .txt_qty{
+        width: 80px;
+        
+    }
+
+    }
